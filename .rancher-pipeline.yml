@@ -20,4 +20,6 @@ notification:
   - recipient: lijun
     notifier: c-p46gz:n-fbl24
   condition:
+  - Success
+  - Changed
   - Failed
