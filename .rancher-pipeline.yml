@@ -17,7 +17,7 @@ stages:
 timeout: 1
 notification:
   recipients:
-  - recipient: lijun
+  - recipient: Lucky
     notifier: c-p46gz:n-fbl24
   condition:
   - Success
